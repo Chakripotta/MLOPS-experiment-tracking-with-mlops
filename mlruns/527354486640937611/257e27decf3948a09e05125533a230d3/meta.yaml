@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/527354486640937611/257e27decf3948a09e05125533a230d3/artifacts
+end_time: 1750183587579
+entry_point_name: ''
+experiment_id: '527354486640937611'
+lifecycle_stage: active
+run_id: 257e27decf3948a09e05125533a230d3
+run_name: nosy-chimp-163
+run_uuid: 257e27decf3948a09e05125533a230d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750183551995
+status: 3
+tags: []
+user_id: potta

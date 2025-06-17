@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/527354486640937611/40ae1911798045b188c50ac4f5cce3ef/artifacts
+end_time: 1750183466742
+entry_point_name: ''
+experiment_id: '527354486640937611'
+lifecycle_stage: active
+run_id: 40ae1911798045b188c50ac4f5cce3ef
+run_name: vaunted-vole-857
+run_uuid: 40ae1911798045b188c50ac4f5cce3ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750183419280
+status: 3
+tags: []
+user_id: potta
