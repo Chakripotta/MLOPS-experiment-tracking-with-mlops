@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/potta/Personalprojects/github/MLOPS-experiment-tracking-with-mlflow/mlruns/605252949410483019/ef5b0b3ee8fb47dda9b7fd1fffedc68c/artifacts
+end_time: 1750270432782
+entry_point_name: ''
+experiment_id: '605252949410483019'
+lifecycle_stage: active
+run_id: ef5b0b3ee8fb47dda9b7fd1fffedc68c
+run_name: marvelous-deer-241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750270431694
+status: 3
+tags: []
+user_id: potta

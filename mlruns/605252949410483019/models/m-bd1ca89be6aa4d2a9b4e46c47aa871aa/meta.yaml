@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/potta/Personalprojects/github/MLOPS-experiment-tracking-with-mlflow/mlruns/605252949410483019/models/m-bd1ca89be6aa4d2a9b4e46c47aa871aa/artifacts
+creation_timestamp: 1750270440036
+experiment_id: '605252949410483019'
+last_updated_timestamp: 1750270494492
+model_id: m-bd1ca89be6aa4d2a9b4e46c47aa871aa
+model_type: null
+name: random_forest
+source_run_id: dd0ebf3635664719b1963ba9b7abd1da
+status: 2
+status_message: null

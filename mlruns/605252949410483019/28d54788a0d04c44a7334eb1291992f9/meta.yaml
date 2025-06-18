@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/potta/Personalprojects/github/MLOPS-experiment-tracking-with-mlflow/mlruns/605252949410483019/28d54788a0d04c44a7334eb1291992f9/artifacts
+end_time: 1750270428851
+entry_point_name: ''
+experiment_id: '605252949410483019'
+lifecycle_stage: active
+run_id: 28d54788a0d04c44a7334eb1291992f9
+run_name: sassy-turtle-8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750270428134
+status: 3
+tags: []
+user_id: potta

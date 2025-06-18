@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/potta/Personalprojects/github/MLOPS-experiment-tracking-with-mlflow/mlruns/605252949410483019/b8fa1ed6f4e941039e04323c8b4d1692/artifacts
+end_time: 1750270431584
+entry_point_name: ''
+experiment_id: '605252949410483019'
+lifecycle_stage: active
+run_id: b8fa1ed6f4e941039e04323c8b4d1692
+run_name: bright-mare-695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750270430935
+status: 3
+tags: []
+user_id: potta

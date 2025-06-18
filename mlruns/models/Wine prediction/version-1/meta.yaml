@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1750271689914
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1750271689914
+metrics: null
+model_id: ''
+name: Wine prediction
+params: null
+run_id: 257e27decf3948a09e05125533a230d3
+run_link: ''
+source: mlflow-artifacts:/527354486640937611/257e27decf3948a09e05125533a230d3/artifacts/Random-Forest-Model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/527354486640937611/257e27decf3948a09e05125533a230d3/artifacts/Random-Forest-Model
+user_id: null
+version: 1

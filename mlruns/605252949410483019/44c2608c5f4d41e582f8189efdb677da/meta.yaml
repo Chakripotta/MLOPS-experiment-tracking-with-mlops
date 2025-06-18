@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/potta/Personalprojects/github/MLOPS-experiment-tracking-with-mlflow/mlruns/605252949410483019/44c2608c5f4d41e582f8189efdb677da/artifacts
+end_time: 1750270435691
+entry_point_name: ''
+experiment_id: '605252949410483019'
+lifecycle_stage: active
+run_id: 44c2608c5f4d41e582f8189efdb677da
+run_name: silent-sloth-488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750270435083
+status: 3
+tags: []
+user_id: potta

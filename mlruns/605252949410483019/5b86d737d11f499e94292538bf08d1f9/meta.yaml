@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/potta/Personalprojects/github/MLOPS-experiment-tracking-with-mlflow/mlruns/605252949410483019/5b86d737d11f499e94292538bf08d1f9/artifacts
+end_time: 1750270434972
+entry_point_name: ''
+experiment_id: '605252949410483019'
+lifecycle_stage: active
+run_id: 5b86d737d11f499e94292538bf08d1f9
+run_name: silent-flea-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750270433853
+status: 3
+tags: []
+user_id: potta

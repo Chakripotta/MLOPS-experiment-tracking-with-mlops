@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/potta/Personalprojects/github/MLOPS-experiment-tracking-with-mlflow/mlruns/605252949410483019/d7dd3e7cf11f4ac5869730f520a0fa4a/artifacts
+end_time: 1750270433757
+entry_point_name: ''
+experiment_id: '605252949410483019'
+lifecycle_stage: active
+run_id: d7dd3e7cf11f4ac5869730f520a0fa4a
+run_name: thoughtful-frog-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750270432899
+status: 3
+tags: []
+user_id: potta

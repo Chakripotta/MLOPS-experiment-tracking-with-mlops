@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/potta/Personalprojects/github/MLOPS-experiment-tracking-with-mlflow/mlruns/605252949410483019/812a4d3993b941a18906cb27609c866d/artifacts
+end_time: 1750270429702
+entry_point_name: ''
+experiment_id: '605252949410483019'
+lifecycle_stage: active
+run_id: 812a4d3993b941a18906cb27609c866d
+run_name: persistent-mare-184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750270428937
+status: 3
+tags: []
+user_id: potta

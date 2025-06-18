@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/potta/Personalprojects/github/MLOPS-experiment-tracking-with-mlflow/mlruns/605252949410483019/c83e96df8cc04281ab8e48ed3109f1c8/artifacts
+end_time: 1750270436837
+entry_point_name: ''
+experiment_id: '605252949410483019'
+lifecycle_stage: active
+run_id: c83e96df8cc04281ab8e48ed3109f1c8
+run_name: skillful-shark-11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750270435867
+status: 3
+tags: []
+user_id: potta
